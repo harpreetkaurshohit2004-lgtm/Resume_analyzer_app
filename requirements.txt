@@ -1,0 +1,26 @@
+# Streamlit web app
+streamlit==1.25.0
+
+# Data handling
+pandas
+numpy
+
+# NLP & semantic similarity
+sentence-transformers==2.2.2
+torch==2.2.0+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+transformers
+
+# Resume parsing
+PyPDF2
+docx2txt
+
+# Dashboard & visuals
+plotly
+Pillow
+
+# UI enhancements
+streamlit-option-menu
+
+# Optional NLP utilities
+nltk
